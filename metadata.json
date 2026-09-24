@@ -1,0 +1,6 @@
+{
+  "name": "Revision Tracker",
+  "description": "Native study revision tracker, notes with mind maps, AI & offline study generator, and customizable test system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
